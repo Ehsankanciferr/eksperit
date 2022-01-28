@@ -46,23 +46,11 @@ print (Fore.YELLOW + "")
 print (""" Supermarket code reporter in virtual by mmd """)
 print (Fore.GREEN + "")
 x = """ Loading ~ ~ ~ 
-/ْ ْ ْْْ ْ ْ ْ ْ ْْ ْ ْ ْ ْ ْ ْ ْ ْْ ْ ْ ْ ْ ْ ْ \  
-\____________/
-     ¦¦l!  ْ ْo ْ ْْْْْo)
-   ( c          ِ ٍٍٍٍ_)
-     l    //ً_ًًً_ً_)
-      )   \\\\\\         
-   ِ/َِِِِِ َِ َِ َِ َِ َِ َِ ِ ِ\\\\\
-/         _ْ_ْْ\______
-|        (____________(|||)
-l              ¦    l            /   \
-l              ¦    l          kancifer
-|        /    ¦    |          ([[ْ_ْ_ْ]_)
-|      /      ¦    |
-|              ¦    |
-l              ¦    l             
-L_______¦__]
-     [____ """
+        ＯＯ═══∩═══ＯＯ  
+              ╭╬╮ ◢
+       ╭▅▇□□█▇▆▅▄▃▂▁(╳)█╮
+       ╰═▃_▁∠════▔▔▔
+               ╙O ╙O"""
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
