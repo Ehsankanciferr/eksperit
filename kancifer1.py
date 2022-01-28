@@ -46,20 +46,23 @@ print (Fore.YELLOW + "")
 print (""" Supermarket code reporter in virtual by mmd """)
 print (Fore.GREEN + "")
 x = """ Loading ~ ~ ~ 
-.                                                      .
-      .n                     .             .                n.
-  . .dP                   dP               9b               9b   .
- 4  qXb         .        dX                 Xb       .      dXp   t
-dX.  9Xb      .dXb     __                     __    dXb.   dXP   .Xb
-9XXb._     _.dXXXXb dXXXXbo.               dXXXXb dXXXXb._   _.dXXP                      9XXXXXXXXXXXXXVXXXXXXXXOo.           .oOXXXXXXXXVXXXXXXXXXXXXXXXP
-   9XXXXXXXXXXXXXXX ~   ~ OOO8b   d8OOO ~   ~ XXXXXXXXXXXXXXXXXP
-     9XXXXXP   9XX      *     98v8P      *     XXP   9XXXXXXXP                                ~~~       9X.          .db|db.          .XP       ~~~
-                  )b.  .dbo.dP' v  9b.odb.  .dX(                                                        ,dXXXXXXXXXXXb     dXXXXXXXXXXXb.
-               dXXXXXXXXXXXP'   .    9XXXXXXXXXXXb
-              dXXXXXXXXXXXXb   d|b   dXXXXXXXXXXXXb                                                   9XXb'    XXXXXb.dX|Xb.dXXXXX'    dXXP
-                       9XXXXXX(   )XXXXXXP                                                                     XXXX X. v .X XXXX
-                        XP^X' b   d' X^XX                                                                       X. 9         P )X
-                         b          '  d   """
+/ْ ْ ْْْ ْ ْ ْ ْ ْْ ْ ْ ْ ْ ْ ْ ْ ْْ ْ ْ ْ ْ ْ ْ \  
+\____________/
+     ¦¦l!  ْ ْo ْ ْْْْْo)
+   ( c          ِ ٍٍٍٍ_)
+     l    //ً_ًًً_ً_)
+      )   \\\\\\         
+   ِ/َِِِِِ َِ َِ َِ َِ َِ َِ ِ ِ\\\\\
+/         _ْ_ْْ\______
+|        (____________(|||)
+l              ¦    l            /   \
+l              ¦    l          kancifer
+|        /    ¦    |          ([[ْ_ْ_ْ]_)
+|      /      ¦    |
+|              ¦    |
+l              ¦    l             
+L_______¦__]
+     [____ """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
