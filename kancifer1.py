@@ -191,7 +191,7 @@ ________rubika.ir/Caetorr________
 print(f"{red} ")
 
 if up == "8":
-    os.system("python sms.py")
+    os.system("python filter.py")
 if up == "7":
     os.system("python rep.py")
 if up == "6":
