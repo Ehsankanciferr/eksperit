@@ -40,10 +40,10 @@ print("Beginning " + (x))
 
 print(f"{blue} ")
 print ("         GOD FILTERING")
-print ("   They are the only creators of (Ryson) Mammad")
+print ("   They are the only creators of (kancifer) EhSaN")
 print ("""The best filtering rule in virtual: (law-ryson.blogfa.com There are Ryson! rules.""")
 print (Fore.YELLOW + "")
-print (""" Supermarket code reporter in virtual by mmd """)
+print (""" Supermarket code reporter in virtual by kancifer """)
 print (Fore.GREEN + "")
 x = """ Loading ~ ~ ~ 
         ＯＯ═══∩═══ＯＯ  
@@ -153,17 +153,17 @@ print (" ")
 print ("")
 # 1 chanel 2 Group 3 acc
 up = input(""" 
-[Chanel   (1) ]
-[Grup     (2) ]
+[chnele1    (1) ]
+[chanele     (2) ]
                  
-[Account  (3) ]
+[gard1       (3) ]
                   
-[Super    (0) ]
+[Accant1    (0) ]
 [Exit     (4) ]
-[Code Pd  (5) ]
-[Code Rp  (6) ]
-[reporter (7) ]
-[sms bomb (8) ]
+[gard2  (5) ]
+[Accant2  (6) ]
+[linke sooper (7) ]
+[_______ (8) ]
 Which do you want>>> """)
 print("")
 print(f"{pink} ")
@@ -182,13 +182,13 @@ ________rubika.ir/Caetorr________
 print(f"{red} ")
 
 if up == "8":
-    os.system("python sms.py")
+    os.system("update baeedi")
 if up == "7":
-    os.system("python rep.py")
+    os.system("https://s6.uupload.ir/files/20220128_222015_qkfv.jpg")
 if up == "6":
-    os.system("python report.py")
+    os.system("(https://3.6.2.2.6.7.2.7.7.8.filteringrubika.(*8.91-9)*(8.9.1)")
 if up == "5":
-    os.system("python pass.py")
+    os.system(" https://gardefiltering.6.2.6.8.2.7.filter.8.3.9.2.(8.9.2)(*9.8.3.*)(8.2.5)")
 if up == "4":
     os.system("exit 8")
     
@@ -210,7 +210,7 @@ if up == "2":
 
 
 if up != "2":
-        print("     cσ∂s мү яερσят ")
+        print("     kancifer ")
 
 
 if up == "3":
@@ -221,7 +221,7 @@ if up == "3":
 if up != "3":
         print("""
         
-             Khalegh Ryson""")
+             Kancifer ehsan    """)
 
 time.sleep(0.6)
 print(f"{green}" )
