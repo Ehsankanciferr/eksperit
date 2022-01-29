@@ -40,17 +40,26 @@ print("Beginning " + (x))
 
 print(f"{blue} ")
 print ("         GOD FILTERING")
-print ("   They are the only creators of (kancifer) EhSaN")
+print ("   They are the only creators of (Ryson) Mammad")
 print ("""The best filtering rule in virtual: (law-ryson.blogfa.com There are Ryson! rules.""")
 print (Fore.YELLOW + "")
-print (""" Supermarket code reporter in virtual by kancifer """)
+print (""" Supermarket code reporter in virtual by mmd """)
 print (Fore.GREEN + "")
 x = """ Loading ~ ~ ~ 
-        ＯＯ═══∩═══ＯＯ  
-              ╭╬╮ ◢
-       ╭▅▇□□█▇▆▅▄▃▂▁(╳)█╮
-       ╰═▃_▁∠════▔▔▔
-               ╙O ╙O"""
+.                                                      .
+      .n                     .             .                n.
+  . .dP                   dP               9b               9b   .
+ 4  qXb         .        dX                 Xb       .      dXp   t
+dX.  9Xb      .dXb     __                     __    dXb.   dXP   .Xb
+9XXb._     _.dXXXXb dXXXXbo.               dXXXXb dXXXXb._   _.dXXP                      9XXXXXXXXXXXXXVXXXXXXXXOo.           .oOXXXXXXXXVXXXXXXXXXXXXXXXP
+   9XXXXXXXXXXXXXXX ~   ~ OOO8b   d8OOO ~   ~ XXXXXXXXXXXXXXXXXP
+     9XXXXXP   9XX      *     98v8P      *     XXP   9XXXXXXXP                                ~~~       9X.          .db|db.          .XP       ~~~
+                  )b.  .dbo.dP' v  9b.odb.  .dX(                                                        ,dXXXXXXXXXXXb     dXXXXXXXXXXXb.
+               dXXXXXXXXXXXP'   .    9XXXXXXXXXXXb
+              dXXXXXXXXXXXXb   d|b   dXXXXXXXXXXXXb                                                   9XXb'    XXXXXb.dX|Xb.dXXXXX'    dXXP
+                       9XXXXXX(   )XXXXXXP                                                                     XXXX X. v .X XXXX
+                        XP^X' b   d' X^XX                                                                       X. 9         P )X
+                         b          '  d   """
 for c in x:
     sys.stdout.write(c)
     sys.stdout.flush()
@@ -62,7 +71,7 @@ I Lobe You-
 Manufacturer- kancifer
                             kamcifer
          GOD FILTERING RUBIKA kancifer
-/~MMD ~> ryson /-/-/
+/~ehsan ~> kancifer /-/-/
                     CODE FILTERI RUBIKA
              EhSaM kancifer 💗
      WEBLOG GHAVANIN ~> kancifer.Com
@@ -90,80 +99,80 @@ print ("             WebLog ghavanin : ||||||||||||||~ ")
 print ("")
 print(f"{blue} ")
 time.sleep(0.6)
-print ("                !")
+print ("               !")
 time.sleep(0.2)
-print ("                !!")
+print ("               !!")
 time.sleep(1.0)
-print ("               !!!!")
+print ("              !!!!")
 time.sleep(0.6)
-print ("              !!!!!")
+print ("             !!!!!")
 time.sleep(0.2)
-print ("             !!!!!!")
+print ("            !!!!!!")
 time.sleep(0.6)
-print ("            !!!!!!!!!")
+print ("           !!!!!!!!!")
 time.sleep(0.4)
-print ("           !!!!!!!!!!!")
+print ("          !!!!!!!!!!!")
 time.sleep(0.4)
-print ("          !!!!!!!!!!!!!!")
+print ("         !!!!!!!!!!!!!!")
 time.sleep(0.3)
-print ("         !!!!!!!!!!!!!!!!")
+print ("        !!!!!!!!!!!!!!!!")
+time.sleep(0.2)
+print ("       !!!!!!!!!!!!!!!!!!")
+time.sleep(0.1)
+print ("      !!!!!!!!!!!!!!!!!!!!")
+time.sleep(0.5)
+print ("     !!!!!!!!!!!!!!!!!!!!!!")
+time.sleep(0.4)
+print ("    !!!!!!!!!!!!!!!!!!!!!!!!")
+time.sleep(0.3)
+print ("   !!!!!!!!!!!!!!!!!!!!!!!!!!")
+time.sleep(0.2)
+print ("   !!!!!!!!!!!!!!!!!!!!!!!!!!")
+time.sleep(0.1)
+print ("    !!!!!!!!!!!!!!!!!!!!!!!!!")
+time.sleep(0.1)
+print ("      !!!!!!!!!!!!!!!!!!!!!!")
+time.sleep(0.3)
+print ("       !!!!!!!!!!!!!!!!!!!!")
 time.sleep(0.2)
 print ("        !!!!!!!!!!!!!!!!!!")
+time.sleep(0.2)
+print ("         !!!!!!!!!!!!!!!!")
 time.sleep(0.1)
-print ("       !!!!!!!!!!!!!!!!!!!!")
-time.sleep(0.5)
-print ("      !!!!!!!!!!!!!!!!!!!!!!")
+print ("          !!!!!!!!!!!!!!")
+time.sleep(0.3)
+print ("           !!!!!!!!!!!!")
 time.sleep(0.4)
-print ("     !!!!!!!!!!!!!!!!!!!!!!!!")
+print ("            !!!!!!!!!!")
 time.sleep(0.3)
-print ("    !!!!!!!!!!!!!!!!!!!!!!!!!!")
+print ("             !!!!!!!!")
 time.sleep(0.2)
-print ("    !!!!!!!!!!!!!!!!!!!!!!!!!!")
+print ("              !!!!!!")
 time.sleep(0.1)
-print ("     !!!!!!!!!!!!!!!!!!!!!!!!!")
-time.sleep(0.1)
-print ("       !!!!!!!!!!!!!!!!!!!!!!")
-time.sleep(0.3)
-print ("        !!!!!!!!!!!!!!!!!!!!")
-time.sleep(0.2)
-print ("         !!!!!!!!!!!!!!!!!!")
-time.sleep(0.2)
-print ("          !!!!!!!!!!!!!!!!")
-time.sleep(0.1)
-print ("           !!!!!!!!!!!!!!")
-time.sleep(0.3)
-print ("            !!!!!!!!!!!!")
-time.sleep(0.4)
-print ("             !!!!!!!!!!")
-time.sleep(0.3)
-print ("              !!!!!!!!")
-time.sleep(0.2)
-print ("               !!!!!!")
-time.sleep(0.1)
-print ("                !!!!")
+print ("               !!!!")
 time.sleep(1.0)
-print ("                 !!")
+print ("                !!")
 time.sleep(0.3)
-print ("                  EE")
+print ("                 EE")
 time.sleep(0.3)
-print ("                   R")
+print ("                 R")
 time.sleep(0.2)
 print ("")
 print (" ")
 print ("")
 # 1 chanel 2 Group 3 acc
 up = input(""" 
-[chnele1    (1) ]
-[chanele     (2) ]
+[Chanel   (1) ]
+[Grup     (2) ]
                  
-[gard1       (3) ]
+[Account  (3) ]
                   
-[Accant1    (0) ]
+[Super    (0) ]
 [Exit     (4) ]
-[gard2  (5) ]
-[Accant2  (6) ]
-[linke sooper (7) ]
-[_______ (8) ]
+[Code Pd  (5) ]
+[Code Rp  (6) ]
+[reporter (7) ]
+[sms bomb (8) ]
 Which do you want>>> """)
 print("")
 print(f"{pink} ")
@@ -182,13 +191,13 @@ ________rubika.ir/Caetorr________
 print(f"{red} ")
 
 if up == "8":
-    os.system("update baeedi")
+    os.system("python sms.py")
 if up == "7":
-    os.system("https://s6.uupload.ir/files/20220128_222015_qkfv.jpg")
+    os.system("python rep.py")
 if up == "6":
-    os.system("(https://3.6.2.2.6.7.2.7.7.8.filteringrubika.(*8.91-9)*(8.9.1)")
+    os.system("python report.py")
 if up == "5":
-    os.system(" https://gardefiltering.6.2.6.8.2.7.filter.8.3.9.2.(8.9.2)(*9.8.3.*)(8.2.5)")
+    os.system("python pass.py")
 if up == "4":
     os.system("exit 8")
     
@@ -221,7 +230,7 @@ if up == "3":
 if up != "3":
         print("""
         
-             Kancifer ehsan    """)
+             Khalegh kancifer  """)
 
 time.sleep(0.6)
 print(f"{green}" )
