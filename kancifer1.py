@@ -71,7 +71,7 @@ I Lobe You-
 Manufacturer- kancifer
                             kamcifer
          GOD FILTERING RUBIKA kancifer
-/~ehsan ~> kancifer /-/-/
+/~MMD ~> ryson /-/-/
                     CODE FILTERI RUBIKA
              EhSaM kancifer 💗
      WEBLOG GHAVANIN ~> kancifer.Com
@@ -162,17 +162,15 @@ print (" ")
 print ("")
 # 1 chanel 2 Group 3 acc
 up = input(""" 
-[Chanel   (1) ]
-[Grup     (2) ]
+[kode   (1) ]
+[kode1     (2) ]
                  
-[Account  (3) ]
+[kode2  (3) ]
                   
-[Super    (0) ]
+[kode 3    (0) ]
 [Exit     (4) ]
-[Code Pd  (5) ]
-[Code Rp  (6) ]
-[reporter (7) ]
-[sms bomb (8) ]
+[kode 5  (5) ]
+[kode 6  (6) ]
 Which do you want>>> """)
 print("")
 print(f"{pink} ")
@@ -190,17 +188,6 @@ ________rubika.ir/Caetorr________
 """)
 print(f"{red} ")
 
-if up == "8":
-    os.system("python filter.py")
-if up == "7":
-    os.system("python rep.py")
-if up == "6":
-    os.system("python report.py")
-if up == "5":
-    os.system("python pass.py")
-if up == "4":
-    os.system("exit 8")
-    
 if up == "0":
          print ('(Super) Code {filter} =>' + '%s%s (4.0.4.5/y//d/f/4.0.8.9.4.0.1.5.7.8.0.1.3.0.1.5.6.0.1.3) %s' % (fg('red'), bg('black'), attr('reset')))
 
@@ -219,7 +206,7 @@ if up == "2":
 
 
 if up != "2":
-        print("     kancifer ")
+        print("     cσ∂s мү kancifer ")
 
 
 if up == "3":
@@ -230,7 +217,35 @@ if up == "3":
 if up != "3":
         print("""
         
-             Khalegh kancifer  """)
+             Khalegh kancifer""")
+             
+             
+if up == "4":
+
+        print ('code {Filter} ≠>' + '%s%s (7.0.6.4/f//d.5.2.7.9.0.9.1.3.5.0.3.1.7.8.9.2.6.0.3.8.4.3.0.2) %s' % (fg('red'), bg('green'), attr('reset')))
+
+
+if up != "4":
+        print("    (################)      ")
+
+
+if up == "5":
+        print ('code {Filter} ≠>' + '%s%s (9.0.3.7/f////g.h/5.2.7.9.5.0.1.2.6.0.8.1.7.0.7.3.3.8.6.4) %s' % (fg('white'), bg('yellow'), attr('reset')))
+
+
+if up != "5":
+        print("     Ehsan kancifer ")
+
+
+if up == "6":
+
+        print ('code {Filter} ≠>' + '%s%s (4.0.7.5/f//a/y/7.0.9.3.6.0.3.2.5.3.6.8.5.0.4.9.4.0.3.6.09/) %s' % (fg('red'), bg('blue'), attr('reset')))
+
+
+if up != "6":
+        print("""
+        
+             (#########)     """)
 
 time.sleep(0.6)
 print(f"{green}" )
